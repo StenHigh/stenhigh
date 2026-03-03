@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stenhigh&label=Profile%20views&color=0e75b6&style=flat" alt="stenhigh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stenhigh" alt="stenhigh" /></a> </p>
+[![stenhigh github stats](https://github-readme-stats-nu-seven-34.vercel.app/api?username=stenhigh)](https://github.com/anuraghazra/github-readme-stats)
